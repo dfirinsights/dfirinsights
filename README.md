@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Velociraptor/ELK/Timesketch/Zimmerman Tools
 - 💞️ I’m looking to collaborate on Automation scripts
 - 📫 How to reach me https://www.linkedin.com/in/clintmarsden/
-- ⚡ Fun fact: Pizza fixes more than duct tape
+- ⚡ Fun fact: Pizza is great, but have you ever smoked a brisket?
 
 <!---
 dfirinsights/dfirinsights is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
